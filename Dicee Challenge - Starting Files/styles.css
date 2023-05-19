@@ -31,6 +31,9 @@ p {
 img {
   width: 80%;
 }
+.button{
+  text-align: center;
+}
 
 footer {
   margin-top: 5%;
